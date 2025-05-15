@@ -33,7 +33,7 @@ Hardware Section:
     </ul>
   Storage:
    <ul style="list-style-type✏️">
-       <li>Download Raspberry Pi ISO</li>
-       <li>In the Controller section, Click on the CDRom Icon and to the right under "Atrributes" Click the CD Drive Icon and Click "Choose a Disk File" </li>
+       <li><a href=https://download.raspberrypi.org/rpd_x86_latest">Download Raspberry Pi ISO</a></li>
+       <li>In the Controller section, Click on the CDRom Icon and to the right under "Atrributes" Click the CD Drive Icon and Click "Choose a Disk File" and select the <a href=https://download.raspberrypi.org/rpd_x86_latest">ISO File</a> </li>
     
    
