@@ -35,5 +35,25 @@ Hardware Section:
    <ul style="list-style-type✏️">
        <li><a href=https://download.raspberrypi.org/rpd_x86_latest">Download Raspberry Pi ISO</a></li>
        <li>In the Controller section, Click on the CD-ROM Icon and to the right under "Atrributes" Click the CD-ROM Icon and Click "Choose a Disk File" and select the <a href=https://download.raspberrypi.org/rpd_x86_latest">ISO File</a> </li>
+   </ul>
+<p></p>
+ Network:
+ <ul style="list-style-type✏️">
+     <li>Switch Netwwork from NAT to Bridge Adapter</li>
+ </ul>
+<p><h4>PRESS OKAY AND START VM (Normal Start)</h4></p>
+
+<h2>**Step Two: Configure Operating System**</h2>
+ <p></p>
+ <ul style="list-style-type✏️">
+     <li>Graphical Install</li>
+     <li>American English</li>
+     <li>Guided - use entire disk</li>
+     <li>Select Virtual Disk</li>
+     <li>All files in one partition</li>
+     <li>Finish Partitioning and write changes to disk</li>
+     <li>Write the changes to disk? Yes</li>
+     
+
     
    
