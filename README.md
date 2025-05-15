@@ -45,7 +45,7 @@ Hardware Section:
 
 <h2>**Step Two: Configure Operating System**</h2>
  <p></p>
- <ul style="list-style-type✏️">
+   <ul style="list-style-type✏️">
      <li>Graphical Install</li>
      <li>American English</li>
      <li>Guided - use entire disk</li>
@@ -53,6 +53,24 @@ Hardware Section:
      <li>All files in one partition</li>
      <li>Finish Partitioning and write changes to disk</li>
      <li>Write the changes to disk? Yes</li>
+     <li>Install the GRUB boot loader to your primary drive? Yes</li>
+     <li>Select Virtual Disk</li>
+   </ul>
+  <p>Installation is now Completed. Continue to Reboot VM</p>
+  
+ <h2>**Step Three: Configure Raspberry Pi Desktop</h2>
+   <ul style="list-style-type✏️">
+     <li>Country: United States</li>
+     <li>Language: American English</li>
+     <li>Timezone: Central</li>
+     <li>Check: Use US Keyboard</li>
+     <li>Username: *choose your own*</li>
+     <li>Password: *Practice using strong passwords*</li>
+     <li>Update Software & Restart</li>
+   </ul>
+<p><h2>**Step Four: Install Pi-Hole</h2></p>
+  <ul style="list-style-type✏️">
+    <li>Open Terminal</li>
      
 
     
