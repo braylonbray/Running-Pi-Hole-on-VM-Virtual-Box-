@@ -70,7 +70,7 @@ Hardware Section:
    </ul>
 <p><h2>**Step Four: Install Pi-Hole</h2></p>
   <ul style="list-style-type✏️">
-    <li>See <a href=Install-command.md">Install-Command.md</a> for Installation and Command used in Terminal</li>
+    <li>See <a href=https://github.com/braylonbray/Running-Pi-Hole-on-VM-Virtual-Box-/blob/4881e835a6cabd035c50e8687e38a16bee371ab8/Install-command.md">Install-Command.md</a> for Installation and Command used in Terminal</li>
      
 
     
