@@ -71,6 +71,16 @@ Hardware Section:
 <p><h2>**Step Four: Install Pi-Hole</h2></p>
   <ul style="list-style-type✏️">
     <li>See <a href=https://github.com/braylonbray/Running-Pi-Hole-on-VM-Virtual-Box-/blob/4881e835a6cabd035c50e8687e38a16bee371ab8/Install-command.md>Install-Command.md</a> for Installation and Command used in Terminal</li>
+
+    ## 📜 License
+
+
+
+- **This guide and original content**: Licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+- **Any original code or scripts**: Licensed under the [MIT License](./LICENSE).
+
+- **Pi-hole software**: Not included in this repository. Refer to the [Pi-hole GitHub repository](https://github.com/pi-hole/pi-hole) for licensing and installation files.
      
 
     
